@@ -26,17 +26,17 @@ top-2 nearest hospitals from each node.</li>
 
 <li>Python
 <ul>
-<li>Load Graph: </li>
-<li>Search: </li>
-<li>File Output: </li>
+<li>Load Graph: 13s</li>
+<li>Search: 10.8s</li>
+<li>File Output: 62.7s</li>
 </ul>
 </li>
 
 <li>C++
 <ul>
-<li>Load Graph: </li>
-<li>Search: </li>
-<li>File Output: </li>
+<li>Load Graph: 8.4s</li>
+<li>Search: 5s</li>
+<li>File Output: 32s</li>
 </ul>
 </li>
 
