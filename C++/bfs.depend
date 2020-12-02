@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1606835469 source:c:\users\tng\desktop\c++\bfs\main.cpp
+	"loader.hpp"
+	"node.hpp"
+	"Writer.hpp"
+	<unordered_map>
+	<queue>
+	<chrono>
+	<cstdlib>
+
+1606825297 c:\users\tng\desktop\c++\bfs\loader.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<vector>
+
+1606833509 c:\users\tng\desktop\c++\bfs\node.hpp
+	<vector>
+	<unordered_map>
+	<vector>
+
+1606833520 source:c:\users\tng\desktop\c++\bfs\node.cpp
+	"node.hpp"
+	<iostream>
+
+1606823881 source:c:\users\tng\desktop\c++\bfs\loader.cpp
+	"loader.hpp"
+	<fstream>
+	<iostream>
+	<string>
+	<sstream>
+	<iterator>
+
+1606835518 source:c:\users\tng\desktop\c++\bfs\writer.cpp
+	"Writer.hpp"
+
+1606834794 c:\users\tng\desktop\c++\bfs\writer.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<unordered_map>
+	<vector>
+	"node.hpp"
+
